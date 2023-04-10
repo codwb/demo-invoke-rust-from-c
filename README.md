@@ -1,4 +1,5 @@
-## Compile rust code to dylib
+
+First, compile Rust code to a dylib dynamic library.
 
 ```shell
 cargo build --target=aarch64-apple-darwin --release	
